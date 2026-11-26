@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/media/flower.42d3952.mp4";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/flower.mp4
+// module id = HTDn
+// module chunks = 1

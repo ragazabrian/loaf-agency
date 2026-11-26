@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/media/Bubble-compressed.e87e12d.mp4";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/Bubble-compressed.mp4
+// module id = BBXU
+// module chunks = 1
