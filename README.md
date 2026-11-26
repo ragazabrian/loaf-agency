@@ -1,116 +1,57 @@
-# Loaf Agency Website Clone & Source Code
+# Brian Ragaza — Senior Product Designer (UX/UI) Portfolio
 
-> Complete clone, static mirror, and extracted Vue.js source code for [loaf.agency](https://loaf.agency/).
+> Interactive portfolio experience powered by the high-performance Loaf Agency design & motion framework.
 
 🌐 **Live GitHub Pages Preview**: [https://ragazabrian.github.io/loaf-agency/](https://ragazabrian.github.io/loaf-agency/)
 
+---
 
-This repository contains the complete production website, all 59 pre-rendered routes, static assets (JS, CSS, Web Fonts, SVG, MP4 media), the full 1.1MB ACF CMS JSON dataset, and the original unminified Vue.js components unpacked from Webpack sourcemaps.
+## 👤 Profile & Overview
+
+**Senior Product Designer & Design Operations Lead** based in Manila, Philippines (Remote Worldwide).  
+Specializing in mission-critical software where accuracy, speed, and cognitive clarity are non-negotiable.
+
+- **Recognitions**:
+  - LinkedIn Top Voice in UX Research (2024 & 2025)
+  - Top 100 Filipino on LinkedIn (2024 & 2025)
+- **Track Record**:
+  - Designing systems backed by Google, Accenture & OpenAI across hyperscale data centers, supply chain, and luxury brands
+  - 50+ SaaS & B2B platforms designed and deployed globally
+  - $100B+ hyperscale data center infrastructure build value
+  - 25+ global brand launches
 
 ---
 
-## 🚀 Quick Start
+## 💼 Featured Case Studies
 
-### 1. Run with Python (Zero Dependencies)
+1. **AI Construction UI Architecture & Design System** (US Construction Software backed by Google, Accenture & OpenAI)
+2. **AI Learning Workspace for Students & Instructors** (EdTech SaaS Platform)
+3. **Family Caregiving Mobile App** (Shared Health & Medication Platform)
+4. **Multi-Currency Mobile Banking App** (Cross-Border Digital Banking & Wealth Platform)
+5. **AI Site Assistant Mobile App** (Field Construction & Delivery Tracking)
+6. **AI-Powered Delivery & Logistics Platform** (Enterprise Logistics Suite)
+7. **Emma by AXA Philippines** (Insurance & Wealth Management Mobile App)
+8. **ROG Phone 6 BATMAN Edition & Diablo Immortal Edition** (ASUS Republic of Gamers, Warner Bros. & Blizzard)
+9. **Creed Perfume Australia Official** (House of Creed Luxury Fragrance)
+10. **Trademaster, ICTechnology, Libertine Parfumerie, Koda Cutters Bondi, Michelle Bridges 12WBT**, and 18 more.
 
-The included `server.py` handles SPA routing, static asset serving, and serves the local `/wp-json/acf/v3/global` mock API.
+---
+
+## 🚀 Running Locally
 
 ```bash
-# Start local server on port 8000
+# Start local preview server (serves SPA routing and local CMS mock)
 python3 server.py 8000
 ```
 
-Open your browser to:
-👉 **[http://localhost:8000](http://localhost:8000)**
+Open your browser to: **[http://localhost:8000](http://localhost:8000)**
 
 ---
 
-### 2. Run with Node.js / NPM
+## 🛠️ Architecture & Tech Stack
 
-```bash
-# Install dependencies
-npm install
-
-# Start local server
-npm start
-```
-
----
-
-## 📂 Project Structure
-
-```
-loaf-agency/
-├── index.html                   # Main SPA entry point
-├── server.py                    # Python development & SPA preview server
-├── clone.py                     # Automated scraping & mirroring script
-├── download_media.py            # WordPress uploads media downloader
-├── export_sourcemaps.py         # Sourcemap unpacker tool
-├── package.json                 # Project dependencies & npm scripts
-├── sitemap.xml                  # Full site XML sitemap (59 URLs)
-├── robots.txt                   # Robots directives
-│
-├── src/                         # Extracted unminified Vue source code (116 files)
-│   ├── App.vue                  # Root Vue application component
-│   ├── main.js                  # App bootstrap, routing & API initialization
-│   ├── seo.js                   # Dynamic meta tags & SEO updater
-│   ├── utils.js                 # Helper functions
-│   ├── router/                  # Vue Router configuration
-│   ├── components/              # Vue pages & views (Home, Work, About, etc.)
-│   │   └── modules/             # UI modules (Projects, AudioPlayer, Sliders, etc.)
-│   ├── plugins/                 # GSAP animations, DrawSVGPlugin, ScrollMagic
-│   └── assets/                  # SVG icons, animations, and videos
-│
-├── static/                      # Production compiled assets
-│   ├── css/                     # Compiled styles (app.*.css + source maps)
-│   ├── js/                      # Webpack bundles (manifest, vendor, app + maps)
-│   ├── fonts/                   # Apercu Mono, Circular Std, Union webfonts
-│   └── media/                   # Video assets (Bubble-compressed.mp4, flower.mp4)
-│
-├── wp-json/acf/v3/              # Full WordPress ACF REST API dataset (1.1 MB)
-│   └── global.json              # Complete database of pages, case studies, and showcases
-│
-├── about/                       # Pre-rendered SSR route
-├── work/                        # Pre-rendered Work routes (35+ case studies)
-├── emotion-lab/                 # Pre-rendered Emotion Lab research articles
-└── showcase/                    # Pre-rendered Industry showcase pages
-```
-
----
-
-## 🛠️ Python Utilities
-
-| Script | Description |
-|---|---|
-| `server.py` | Built-in HTTP server supporting HTML5 history mode and local ACF API endpoints. |
-| `clone.py` | Multi-threaded crawler that fetches routes, CSS, JS, fonts, media, and CMS data. |
-| `download_media.py` | Scans `global.json` and optionally downloads high-res WordPress image/video uploads. |
-| `export_sourcemaps.py` | Extracts Webpack source maps into human-readable Vue and JavaScript source files. |
-
-### Optional: Download Remote WordPress Media
-
-By default, image tags load from the live CDN at `wp.loaf.agency`. To download the media locally:
-
-```bash
-# Download first 50 images
-python3 download_media.py --max-files 50
-
-# Download all images & videos
-python3 download_media.py --max-files 0 --include-videos
-```
-
----
-
-## 🌐 Tech Stack
-
-- **Frontend Framework**: Vue.js 2.x + Vue Router
-- **Animation**: GSAP (GreenSock) + TweenMax + DrawSVGPlugin + SplitText + ScrollMagic
-- **Styling**: Tailwind CSS + Custom SCSS + Custom Web Fonts (Circular Std, Apercu Mono, Union)
-- **CMS / Data Source**: WordPress REST API + Advanced Custom Fields (ACF Pro)
-- **Architecture**: Hybrid SPA + Pre-rendered Static HTML for SEO
-
----
-
-## 📄 License & Attribution
-
-All content, design, and branding are the property of [Loaf Creative](https://loaf.agency/) (Colony, Jactin House, 24 Hood Street, Manchester). This clone is provided for educational, research, and backup purposes.
+- **Framework**: Vue.js 2.x + Vue Router (HTML5 History Mode with GitHub Pages subpath support)
+- **Motion & Physics**: GSAP (TweenMax, DrawSVG, SplitText) + ScrollMagic
+- **Styling**: Tailwind CSS + SCSS + Custom Typography (Circular Std, Apercu Mono, Union)
+- **CMS Data**: ACF REST API JSON schema (`/wp-json/acf/v3/global.json`)
+- **Deployment**: GitHub Pages (`.nojekyll`, `404.html` SPA routing bridge)
