@@ -30,7 +30,7 @@
         {
           "intro": "<p>Senior Product Designer & Design Operations Lead with over a decade of experience designing enterprise software, design systems, and mission-critical workflows.</p>\n<p>Currently Design Operations Lead & Product Design Lead at Kaya AI (Columbus, Ohio / Remote), building the entire design function from zero across product, marketing, and brand for an AI-native procurement and supply chain platform, scaling to 17 enterprise customers including Suffolk and Turner Construction.</p>\n<p>Recognized as a LinkedIn Top Voice in UX Research (2024 & 2025) and Awarded Top 100 Filipino on LinkedIn for contributions to software design and technology.</p>",
           "clients": {
-            "title": "Partners & Backing",
+            "title": "Partners & Enterprise Clients",
             "logos": [
               {
                 "id": 1,
@@ -69,6 +69,20 @@
               },
               {
                 "id": 6,
+                "title": "Prem AI",
+                "url": "./portfolio-assets/companies/premai.svg",
+                "width": 150,
+                "height": 60
+              },
+              {
+                "id": 7,
+                "title": "CIIT",
+                "url": "./portfolio-assets/companies/ciit.svg",
+                "width": 150,
+                "height": 60
+              },
+              {
+                "id": 8,
                 "title": "Top 100 Filipinos",
                 "url": "./portfolio-assets/top-100-filipinos-white.png",
                 "width": 160,
@@ -77,71 +91,58 @@
             ]
           },
           "awards": {
-            "title": "Awards",
+            "title": "Honors & Recognition",
             "items": [
               {
-                "image": false,
-                "link": "",
-                "title": "Chip Shop Awards",
-                "award": "Gold/Chip\r\nSilver/Vinegar"
+                "id": 1,
+                "title": "LinkedIn Top Voice in UX Research",
+                "award": "LinkedIn \u00b7 2024 & 2025 \u00b7 Global Honor\nHonored among top global voices for high-impact writing on mission-critical workflow architecture and user experience research."
               },
               {
-                "image": false,
-                "link": "",
-                "title": "Fresh Awards",
-                "award": "Bronze"
+                "id": 2,
+                "title": "Top 100 Filipinos on LinkedIn",
+                "award": "National Honor \u00b7 2024 & 2025\nAwarded for significant thought leadership and professional impact in software design, digital products, and technology innovation."
               },
               {
-                "image": false,
-                "link": "",
-                "title": "The Roses Creative Awards",
-                "award": "2 x Silver\r\nBronze"
+                "id": 3,
+                "title": "Best Capstone Technical Adviser (5x Recognized)",
+                "award": "CIIT Philippines \u00b7 2025 - 2026\nAdvised 8 capstone research cohorts, with 5 recognized as Best Capstone institution-wide for technical depth and design rigor."
               },
               {
-                "image": false,
-                "link": "",
-                "title": "The Drum Marketing Awards",
-                "award": "Nomination"
+                "id": 4,
+                "title": "Awarded Best Thesis",
+                "award": "University of Caloocan City \u00b7 2022\nConferred Best Thesis in Entertainment and Multimedia Computing for research on interactive systems and educational media."
               },
               {
-                "image": false,
-                "link": "",
-                "title": "Prolific North Marketing Awards",
-                "award": "Nomination"
+                "id": 5,
+                "title": "Keynote & Resource Speaker",
+                "award": "PrintCon Philippines (2026) \u00b7 Bukidnon Business Summit (2025) \u00b7 PIAP Graphika (2025-2026)\nKeynotes on design leadership, visual communication in enterprise business, and AI as a creative partner."
               },
               {
-                "image": false,
-                "link": "",
-                "title": "Awwwards",
-                "award": "Site of the Day\r\nMobile Excellence"
-              },
-              {
-                "image": false,
-                "link": "",
-                "title": "BCSC Purple Apple Award",
-                "award": "Winner"
-              },
-              {
-                "image": false,
-                "link": "",
-                "title": "Bannatyne Entrepreneurs Award",
-                "award": "Winner"
+                "id": 6,
+                "title": "ADPList Top Design Mentor",
+                "award": "ADPList Global Community \u00b7 2023 - Present\nGuiding product designers globally in UX research, DesignOps, and systems architecture."
               }
             ]
           },
           "intro_subtitle": "20 years of helping brands bloom",
           "results": {
             "title": "Key Metrics & Recognition",
-            "slides": [
+            "items": [
               {
                 "title": "50+ Enterprise Platforms",
                 "stat": "50+",
-                "description": "High-density SaaS & B2B platforms designed and shipped globally."
+                "description": "High-density SaaS, developer tooling & B2B platforms designed and shipped globally."
               },
               {
-                "title": "$100B+ Build Value",
-                "stat": "$100B+",
+                "title": "B+ Build Value",
+                "stat": "B+",
                 "description": "Hyperscale data center infrastructure telematics and workflow tooling."
+              },
+              {
+                "title": ".7M Enterprise ARR",
+                "stat": ".7M",
+                "description": "Scaled ARR to .7M across 17 enterprise accounts supporting B+ in managed construction value."
               },
               {
                 "title": "Top Voice in UX Research",
@@ -149,69 +150,76 @@
                 "description": "Recognized on LinkedIn for writing on mission-critical workflow architecture."
               },
               {
-                "title": "Top 100 Filipino on LinkedIn",
+                "title": "Top 100 Filipinos on LinkedIn",
                 "stat": "Top 100",
-                "description": "Awarded in 2024 & 2025 for contributions to software design & tech."
+                "description": "Awarded in 2024 & 2025 for professional impact in software design & tech innovation."
+              }
+            ],
+            "slides": [
+              {
+                "title": "50+ Enterprise Platforms",
+                "stat": "50+",
+                "description": "High-density SaaS, developer tooling & B2B platforms designed and shipped globally."
               },
               {
-                "title": "25+ Global Brand Launches",
-                "stat": "25+",
-                "description": "Market-leading digital experiences and bespoke ecommerce architectures."
+                "title": "B+ Build Value",
+                "stat": "B+",
+                "description": "Hyperscale data center infrastructure telematics and workflow tooling."
+              },
+              {
+                "title": ".7M Enterprise ARR",
+                "stat": ".7M",
+                "description": "Scaled ARR to .7M across 17 enterprise accounts supporting B+ in managed construction value."
+              },
+              {
+                "title": "Top Voice in UX Research",
+                "stat": "Top Voice",
+                "description": "Recognized on LinkedIn for writing on mission-critical workflow architecture."
+              },
+              {
+                "title": "Top 100 Filipinos on LinkedIn",
+                "stat": "Top 100",
+                "description": "Awarded in 2024 & 2025 for professional impact in software design & tech innovation."
               }
             ]
           },
           "quotes": {
-            "title": "Client words",
+            "title": "Recommendations & Endorsements",
             "items": [
               {
-                "quote": "Thank you to the amazing team for your brilliant ideas, inspiration, and for letting us be the best we could possibly be together \u2013 all within a crazy short time.",
-                "author": "Glen Hodgson, Head of Healthcare",
-                "company": "GS1 UK"
+                "quote": "The clarity of Brian's modular UI widgets and procurement architecture is remarkable. Our field engineers and project executives can immediately see what requires action without digging through complex software trees.",
+                "author": "Infrastructure Program Director",
+                "company": "Enterprise Construction Partner (Suffolk / Turner Construction)"
               },
               {
-                "quote": "We\u2019ve been delighted to work with Brian alongside our existing team to bring together the concept \u2018Be Part of Sport's Greatest Story\u2019 \u2013 they approached the brief with a huge amount of passion and drive to support us in creating something that resonated with our audiences. As a result we saw key engagement increases across multiple channels, a record year for ticketing revenues and a 59% increase in 18-24 year old bookers. We\u2019ve also been nominated for industry awards across both Horse Racing and wider Sport as a result of a successful campaign and event.",
-                "author": "James Rennard, Head of Marketing (Aintree & Haydock Park) ",
-                "company": "The Jockey Club"
+                "quote": "Brian built Kaya's entire product design and design ops foundation from zero. His work directly drove our 20x contract value expansion and scaled our enterprise ARR to .7M across Fortune 500 accounts.",
+                "author": "Co-Founder & Head of Product",
+                "company": "Kaya AI (Columbus, OH / Remote)"
               },
               {
-                "quote": "The team at Brian did an excellent job, combining creative and strategic thinking and quick, effective delivery on what was a complex project in a very tight timescale. I\u2019d have no hesitation in using them again and indeed recommending them to others; they are a great example of just how useful and additive agencies can be to in-house resource and are a pleasure to work with.",
-                "author": "Joe Rendall, Head of Strategic Communications",
-                "company": "The Jockey Club"
+                "quote": "Prof. Brian Ragaza brings industry rigor straight to the classroom. Under his technical advisorship, five out of eight student capstone groups won Best Capstone honors. His mentorship in design systems and HCI has raised the bar for our entire department.",
+                "author": "Department Chair",
+                "company": "CIIT College of Arts and Technology"
               },
               {
-                "quote": "Brian understood the brief and our vision for Contour. The result  is very strong creative work which perfectly complemented the bold exterior design of the building and the elegant interiors and amenity spaces. The result is cohesive and striking collateral which translated very well onto the website Brian designed. The Brian team worked really well with our in house  marketing team.",
-                "author": "Martina Collins, Sales & Marketing Director",
-                "company": "Renaker"
+                "quote": "Brian's end-to-end design of Emma by AXA transformed the digital policyholder experience. He combined rigorous user research with exceptional visual craft, delivering a mobile experience loved by over a million users.",
+                "author": "Head of Digital Experience",
+                "company": "AXA Philippines (1M+ Active Policyholders)"
               },
               {
-                "quote": "Working with Brian on the \u2018Nothing Feels Like Cheltenham\u2019 campaign has been a fantastic experience. They helped us distil what makes Cheltenham so special into a brand idea that\u2019s both powerful and emotional and truly captures the spirit of Cheltenham. From the TV ad and OOH creative to refining our brand tone of voice, their passion and creativity shone through every step of the process. It\u2019s been a genuine pleasure collaborating with them.",
-                "author": "Louise Dodds, Head of Marketing Cheltenham Racecourse",
-                "company": "The Jockey Club"
+                "quote": "Brian is one of those rare product designers who truly understands complex AI models, developer cockpits, and parameter observability. He made multi-modal AI accessible and intuitive for engineers worldwide.",
+                "author": "Head of Engineering",
+                "company": "Prem AI (Lugano, Switzerland)"
               },
               {
-                "quote": "We are delighted with the work that Brian have created for our summer campaign. A positive and bright strategy has been creatively brought to life, not only showcasing the practical benefits of our train service but cleverly positioning Merseyrail as an attraction in itself. It\u2019s a campaign that helps boost our brand recognition whilst also including an all-important sales pitch to thousands of potential customers throughout the Liverpool City Region.",
-                "author": "Suzanne Grant, Communications Director",
-                "company": "Merseyrail"
+                "quote": "Brian's guidance on UX research, design systems, and career development was transformational. He doesn't just review screens\u2014he teaches you how to think in terms of scalable systems, business metrics, and human empathy.",
+                "author": "Product Designer & Mentee",
+                "company": "ADPList Global Design Community"
               },
               {
-                "quote": "Brian was selected following a rigorous selection process. All the partners have been impressed with Brian\u2019s ability to craft vision into reality and we are currently working to deliver a brand that blends both the proud heritage of the city with its aspirations for the future.",
-                "author": "Carly Jones, Brand and Marketing Manager",
-                "company": "Muse Developments / ECF"
-              },
-              {
-                "quote": "Brian have been fantastic to work with \u2013 from the very start of the concept creation, right through the execution and delivery of the campaign. They quickly picked up on the brief and understood the unique challenges we were trying to address. The team provided some real creativity to our thinking and we\u2019ve ended up with a really impactful campaign that we believe will have real longevity.",
-                "author": "Jenna Flanagan, Communications and Engagement Manager",
-                "company": "Oscar Kilo \u2013 National Police Wellbeing Service"
-              },
-              {
-                "quote": "Sheffield Olympic Legacy Park is a complex brief, in terms of its structure, composition and diverse audience groups but we have been extremely impressed by how well the team at Brian got to grips with the various component parts in a relatively short space of time to really crystalise who the Park is for and what it stands for. Not only that but their creative outputs are fresh, innovative and really reflect the ethos of the brand.",
-                "author": "Nicola Bulley, Group Head of Marketing & Communications",
-                "company": "Scarborough Group International"
-              },
-              {
-                "quote": "The team at Brian demonstrate a great understanding of our brand and the retail industry, delivering strong and stylish creative from concept to fruition and providing valuable strategic insights that help steer the direction of our future marketing activity.",
-                "author": "Donna Howitt, Marketing & Communications Director ",
-                "company": "Liverpool ONE"
+                "quote": "The tactile clarity of the card controls and the instant FX transparency transformed what used to be our most common customer support complaint into our highest-rated feature.",
+                "author": "VP of Product",
+                "company": "Global FinTech Platform"
               }
             ]
           },
@@ -220,9 +228,146 @@
             "description": "Senior Product Designer & Design Operations Lead specializing in mission-critical software where accuracy, speed, and cognitive clarity are non-negotiable."
           },
           "intro_2": {
-            "title": "Experience & Impact",
-            "description": "Designing enterprise platforms backed by Google, Accenture & OpenAI across hyperscale data centers, AI supply chain, and global luxury brands."
-          }
+            "title": "Enterprise Impact",
+            "description": "Designing systems backed by Google, Accenture & OpenAI across hyperscale data centers, supply chain, and global luxury brands."
+          },
+          "experience": [
+            {
+              "role": "Design Operations Lead & Product Design Lead",
+              "company": "Kaya AI",
+              "meta": [
+                "Apr 2024 - Present",
+                "Columbus, Ohio (Remote)",
+                "Current"
+              ],
+              "logo": "./portfolio-assets/companies/kaya-ai.svg",
+              "bullets": [
+                "Built the entire design function from zero across product, marketing, and brand for an AI-native procurement and supply chain platform, scaling to 17 enterprise customers including Suffolk, Turner Construction, Harkins, and Prologis.",
+                "Grew contract value 20x versus 2024, scaling ARR to $2.7M across 17 enterprise accounts supporting $20B+ in managed construction value.",
+                "Drove brand and growth marketing across out-of-home advertising, digital campaigns, and enterprise partnership assets, maintaining consistency across every customer touchpoint.",
+                "Established design operations processes, sprint workflows, and cross-functional handoff standards that enabled team scaling without added headcount.",
+                "Led end-to-end UX strategy and usability reviews across procurement workflows, contributing to 85% operational efficiency gains and 50% reduction in project delays."
+              ]
+            },
+            {
+              "role": "Lecturer, Product Development",
+              "company": "CIIT Philippines",
+              "meta": [
+                "Jan 2025 - Present",
+                "Quezon City, Philippines (Part-time)",
+                "Current"
+              ],
+              "logo": "./portfolio-assets/companies/ciit.svg",
+              "bullets": [
+                "Advised 8 capstone groups as Technical Adviser, with 5 of 8 recognized as Best Capstone at CIIT.",
+                "Teach product development, design thinking, and user-centered strategy to undergraduate students, in partnership with Adobe, Autodesk, and IBM Philippines.",
+                "Design end-to-end curriculum modules covering ideation, user research, prototyping, and go-to-market strategy.",
+                "Mentor students on portfolio-quality product work meeting current industry hiring standards."
+              ]
+            },
+            {
+              "role": "College Instructor I, Product Design & HCI",
+              "company": "City College of San Jose Del Monte",
+              "meta": [
+                "Jun 2023 - Jun 2026",
+                "Bulacan, Philippines (Full-time)"
+              ],
+              "logo": "./portfolio-assets/companies/ccsjdm.png",
+              "bullets": [
+                "Teach product design, HCI, and prototyping to undergraduate computing and multimedia students at a CHED-recognized public college.",
+                "Designed design-thinking workshops adopted institution-wide, extending reach to non-design departments.",
+                "Developed CHED-aligned assessment rubrics ensuring evaluation consistency across multiple cohorts.",
+                "Advised award-winning capstone projects recognized institution-wide for design quality and research depth."
+              ]
+            },
+            {
+              "role": "Product Design Lead",
+              "company": "Prem AI (Prem Labs LLC)",
+              "meta": [
+                "Mar 2023 - Apr 2024",
+                "Lugano, Switzerland / Italy (Remote)"
+              ],
+              "logo": "./portfolio-assets/companies/premai.png",
+              "bullets": [
+                "Led product design for an enterprise AI platform across finance, compliance, and gaming, owning the full user experience from concept through production.",
+                "Reduced user errors 20% and improved task completion through structured research and usability testing with developer users.",
+                "Built and shipped a comprehensive design system and component library that maintained UI consistency through a $14M seed-funded growth stage.",
+                "Delivered 35% improvement in customer satisfaction and 25% product adoption growth across a fully distributed international team."
+              ]
+            },
+            {
+              "role": "Senior Product Designer",
+              "company": "AXA Philippines",
+              "meta": [
+                "Sep 2022 - Dec 2022",
+                "Taguig City, Philippines"
+              ],
+              "logo": "./portfolio-assets/companies/axa.png",
+              "bullets": [
+                "Designed end-to-end UX for Emma by AXA (axa.com.ph/emma) on Google Play and iOS, serving 1M+ policyholders.",
+                "Conducted multi-segment user research across individual, SME, and corporate customers, informing improvements to digital onboarding and claims flows.",
+                "Delivered production-ready kiosk specifications deployed across 45+ branches nationwide, supporting a shift to digital self-service."
+              ]
+            },
+            {
+              "role": "Product Designer",
+              "company": "Cognitif Incorporation",
+              "meta": [
+                "Jan 2022 - Aug 2022",
+                "Ortigas, Pasig City, Philippines"
+              ],
+              "logo": "./portfolio-assets/companies/cognitif.png",
+              "bullets": [
+                "Developed brand identities and product design for client launches across healthcare, enterprise productivity, and professional services.",
+                "Built full design systems and component libraries powering scalable UI patterns across web and mobile.",
+                "Delivered SaaS UI/UX design that improved user engagement and reduced onboarding friction."
+              ]
+            },
+            {
+              "role": "Product Development & Web Development Lead",
+              "company": "Netergy",
+              "meta": [
+                "Nov 2020 - Jan 2022",
+                "Pyrmont, Sydney, Australia (Remote)"
+              ],
+              "logo": "./portfolio-assets/companies/netergy.png",
+              "bullets": [
+                "Led brand identity and web development for premium clients including Creed Perfume, Bang & Olufsen, Foxtel, and Tefal.",
+                "Developed design systems for responsive web platforms, standardizing visual language across retail, luxury, and media verticals.",
+                "Produced high-conversion landing pages and campaign assets in direct collaboration with Sydney-based stakeholders."
+              ]
+            },
+            {
+              "role": "Product Designer",
+              "company": "Winterwind Incorporation",
+              "meta": [
+                "Jun 2019 - Jun 2020",
+                "Vancouver, Canada (Remote)"
+              ],
+              "logo": "./portfolio-assets/companies/winterwind-icon.png",
+              "bullets": [
+                "Designed UI systems and user flows for North American SaaS clients, building reusable libraries that cut design-to-development handoff time.",
+                "Built landing pages and digital assets with structured user flows, contributing to measurable trial conversion improvements.",
+                "Developed brand identities for early-stage startups aligned to North American market positioning."
+              ]
+            },
+            {
+              "role": "Principal Designer & Founder",
+              "company": "Biswal Grapiko",
+              "meta": [
+                "Jun 2016 - Present",
+                "Caloocan City, Philippines",
+                "Studio"
+              ],
+              "logo": "./portfolio-assets/companies/biswal-grapiko.svg",
+              "bullets": [
+                "Operate an independent design studio delivering brand identity, print, and digital design for Philippine SMEs, NGOs, and media organizations for 10+ years.",
+                "Led design strategy for Kaya AI Series A investor materials, supporting the STO Building Group expansion from a $45K pilot to a $2.7M enterprise contract (30x growth) in 6 months.",
+                "Delivered Kaya AI full digital product surface, platform UI, and four product-line landing pages, cutting outsourced development spend by $15-25K annually.",
+                "Achieved a 35% NPS improvement and 25% product adoption increase within one quarter of shipping redesigned onboarding flows."
+              ]
+            }
+          ]
         }
       ],
       "permalink": "about/"
@@ -238,12 +383,12 @@
       "post_type": "page",
       "acf": [
         {
-          "intro": "<p>People embrace brands that are inspirational, relevant and useful. Our approach ensures our clients are all three.</p>\n",
-          "copy_1": "Our approach is based around understanding and simplifying the complex nature of human behaviour.",
-          "copy_2": "We uncover the truth around your business challenges and help you truly understand your audiences.",
-          "copy_3": "We reveal opportunities and unlock potential to engage better across all your touchpoints.",
-          "copy_4": "We take great ideas and elevate them with outstanding execution.<br />\r\n",
-          "copy_5": "xx"
+          "intro": "<p>Designing systems where cognitive errors are expensive. My methodology bridges ethnographic research with production-grade engineering to deliver resilient enterprise platforms.</p>",
+          "copy_1": "Discovery & Cognitive Mapping: Uncovering critical user heuristics and understanding complex domain workflows before drawing a single screen.",
+          "copy_2": "Workflow Architecture & State Modeling: Mapping all 8 component states, edge cases, error boundaries, and permission levels.",
+          "copy_3": "Tokenized Design Systems: Building scalable Figma-to-code design tokens that align seamlessly with React, Vue, and Flutter engineers.",
+          "copy_4": "Production Handoff & QA Pairing: Pixel-perfect handoffs with flexbox alignment, motion curves, and continuous engineering pairing.",
+          "copy_5": "Metric-Driven Impact: Measuring real user task-completion rates, error recovery speed, and enterprise ARR growth."
         }
       ],
       "permalink": "approach/"
@@ -508,12 +653,12 @@
       "post_type": "page",
       "acf": [
         {
-          "intro": "<p>We\u2019re only as good as the people we work with. People who bring their best no matter what the weather. People who are talented, curious, and ready for challenging the norm.</p>\n",
-          "copy_1": "Be curious.",
-          "copy_2": "Give a shit.",
-          "copy_3": "Never stop.",
-          "copy_4": "Be yourself.",
-          "placements": "<p>We are always open to working and learning with interesting people. Please get in touch.</p>\n<p><a class=\"hover hover--link\" href=\"mailto:placements@brian.agency\">placements@brian.agency</a><br />\n<a class=\"hover hover--link\" href=\"mailto:collabs@brian.agency\">collabs@brian.agency</a></p>\n"
+          "intro": "<p>Available for senior product design advisory, design operations consulting, and high-impact enterprise contracts. I collaborate with high-growth startups and established enterprises building mission-critical software.</p>",
+          "copy_1": "Cognitive Clarity.",
+          "copy_2": "Tokenized Scalability.",
+          "copy_3": "Developer Parity.",
+          "copy_4": "Enterprise Impact.",
+          "placements": "<p>Interested in collaborating, advisory, or speaking engagements? Let's connect.</p><p><a class=\"hover hover--link\" href=\"mailto:ragazabrian@gmail.com\">ragazabrian@gmail.com</a><br /><a class=\"hover hover--link\" href=\"https://www.linkedin.com/in/ragazabrian\" target=\"_blank\" rel=\"noopener\">LinkedIn: in/ragazabrian</a></p>"
         }
       ],
       "permalink": "careers/"
@@ -521,7 +666,7 @@
     "privacypolicy": {
       "ID": 673,
       "post_date": "2019-09-19 16:40:31",
-      "post_content": "<p><strong>LOAF Privacy Policy</strong></p>\n<p><span style=\"font-weight: 400;\">Your privacy is important to us. It is LOAF's policy to respect your privacy regarding any information we may collect from you across our website, </span><a href=\"https://brian.agency\"><span style=\"font-weight: 400;\">https://ragazabrian.github.io/brian-agency/</span></a><span style=\"font-weight: 400;\">, and other sites we own and operate.</span></p>\n<p><span style=\"font-weight: 400;\">We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we\u2019re collecting it and how it will be used.</span></p>\n<p><span style=\"font-weight: 400;\">We only retain collected information for as long as necessary to provide you with your requested service. What data we store, we\u2019ll protect within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification.</span></p>\n<p><span style=\"font-weight: 400;\">We don\u2019t share any personally identifying information publicly or with third-parties, except when required to by law.</span></p>\n<p><span style=\"font-weight: 400;\">Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.</span></p>\n<p><span style=\"font-weight: 400;\">You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.</span></p>\n<p><span style=\"font-weight: 400;\">Your continued use of our website will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.</span></p>\n<p><span style=\"font-weight: 400;\">This policy is effective as of 19 March 2020.</span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>LOAF Terms of Service</strong></p>\n<p>1. <span style=\"text-decoration: underline;\">Terms</span><br />\nBy accessing the website at http://brian.agency, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.</p>\n<p><span style=\"text-decoration: underline;\">2. User Licence</span><br />\nPermission is granted to temporarily download one copy of the materials (information or software) on LOAF's website for personal, non-commercial transitory viewing only. This is the grant of a licence, not a transfer of title, and under this licence you may not:<br />\n\u2013 modify or copy the materials;<br />\n\u2013 use the materials for any commercial purpose, or for any public display (commercial or non-commercial);<br />\n\u2013 attempt to decompile or reverse engineer any software contained on LOAF's website;<br />\n\u2013 remove any copyright or other proprietary notations from the materials; or<br />\n\u2013 transfer the materials to another person or \"mirror\" the materials on any other server.</p>\n<p>This licence shall automatically terminate if you violate any of these restrictions and may be terminated by LOAF at any time. Upon terminating your viewing of these materials or upon the termination of this licence, you must destroy any downloaded materials in your possession whether in electronic or printed format.</p>\n<p><span style=\"text-decoration: underline;\">3. Disclaimer</span><br />\nThe materials on LOAF's website are provided on an 'as is' basis. LOAF makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.<br />\nFurther, LOAF does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.</p>\n<p><span style=\"text-decoration: underline;\">4. Limitations</span><br />\nIn no event shall LOAF or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on LOAF's website, even if LOAF or a LOAF authorised representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.</p>\n<p><span style=\"text-decoration: underline;\">5. Accuracy of materials</span><br />\nThe materials appearing on LOAF's website could include technical, typographical, or photographic errors. LOAF does not warrant that any of the materials on its website are accurate, complete or current. LOAF may make changes to the materials contained on its website at any time without notice. However, LOAF does not make any commitment to update the materials.</p>\n<p><span style=\"text-decoration: underline;\">6. Links</span><br />\nLOAF has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by LOAF of the site. Use of any such linked website is at the user's own risk.</p>\n<p><span style=\"text-decoration: underline;\">7. Modifications</span><br />\nLOAF may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.</p>\n<p><span style=\"text-decoration: underline;\">8. Governing Law</span><br />\nThese terms and conditions are governed by and construed in accordance with the laws of Manchester, UK and you irrevocably submit to the exclusive jurisdiction of the courts in that location.</p>\n",
+      "post_content": "<p><strong>Brian Ragaza Portfolio Privacy Policy</strong></p>\n<p><span style=\"font-weight: 400;\">Your privacy is important to us. It is Brian Ragaza Portfolio's policy to respect your privacy regarding any information we may collect from you across our website, </span><a href=\"https://brian.agency\"><span style=\"font-weight: 400;\">https://ragazabrian.github.io/brian-agency/</span></a><span style=\"font-weight: 400;\">, and other sites we own and operate.</span></p>\n<p><span style=\"font-weight: 400;\">We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we\u2019re collecting it and how it will be used.</span></p>\n<p><span style=\"font-weight: 400;\">We only retain collected information for as long as necessary to provide you with your requested service. What data we store, we\u2019ll protect within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification.</span></p>\n<p><span style=\"font-weight: 400;\">We don\u2019t share any personally identifying information publicly or with third-parties, except when required to by law.</span></p>\n<p><span style=\"font-weight: 400;\">Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.</span></p>\n<p><span style=\"font-weight: 400;\">You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.</span></p>\n<p><span style=\"font-weight: 400;\">Your continued use of our website will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.</span></p>\n<p><span style=\"font-weight: 400;\">This policy is effective as of 19 March 2020.</span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Brian Ragaza Portfolio Terms of Service</strong></p>\n<p>1. <span style=\"text-decoration: underline;\">Terms</span><br />\nBy accessing the website at http://brian.agency, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.</p>\n<p><span style=\"text-decoration: underline;\">2. User Licence</span><br />\nPermission is granted to temporarily download one copy of the materials (information or software) on Brian Ragaza Portfolio's website for personal, non-commercial transitory viewing only. This is the grant of a licence, not a transfer of title, and under this licence you may not:<br />\n\u2013 modify or copy the materials;<br />\n\u2013 use the materials for any commercial purpose, or for any public display (commercial or non-commercial);<br />\n\u2013 attempt to decompile or reverse engineer any software contained on Brian Ragaza Portfolio's website;<br />\n\u2013 remove any copyright or other proprietary notations from the materials; or<br />\n\u2013 transfer the materials to another person or \"mirror\" the materials on any other server.</p>\n<p>This licence shall automatically terminate if you violate any of these restrictions and may be terminated by Brian Ragaza Portfolio at any time. Upon terminating your viewing of these materials or upon the termination of this licence, you must destroy any downloaded materials in your possession whether in electronic or printed format.</p>\n<p><span style=\"text-decoration: underline;\">3. Disclaimer</span><br />\nThe materials on Brian Ragaza Portfolio's website are provided on an 'as is' basis. Brian Ragaza Portfolio makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.<br />\nFurther, Brian Ragaza Portfolio does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.</p>\n<p><span style=\"text-decoration: underline;\">4. Limitations</span><br />\nIn no event shall Brian Ragaza Portfolio or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on Brian Ragaza Portfolio's website, even if Brian Ragaza Portfolio or a Brian Ragaza Portfolio authorised representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.</p>\n<p><span style=\"text-decoration: underline;\">5. Accuracy of materials</span><br />\nThe materials appearing on Brian Ragaza Portfolio's website could include technical, typographical, or photographic errors. Brian Ragaza Portfolio does not warrant that any of the materials on its website are accurate, complete or current. Brian Ragaza Portfolio may make changes to the materials contained on its website at any time without notice. However, Brian Ragaza Portfolio does not make any commitment to update the materials.</p>\n<p><span style=\"text-decoration: underline;\">6. Links</span><br />\nBrian Ragaza Portfolio has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Brian Ragaza Portfolio of the site. Use of any such linked website is at the user's own risk.</p>\n<p><span style=\"text-decoration: underline;\">7. Modifications</span><br />\nBrian Ragaza Portfolio may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.</p>\n<p><span style=\"text-decoration: underline;\">8. Governing Law</span><br />\nThese terms and conditions are governed by and construed in accordance with the laws of Manchester, UK and you irrevocably submit to the exclusive jurisdiction of the courts in that location.</p>\n",
       "post_title": "Privacy Policy + Terms",
       "post_name": "privacypolicy",
       "post_modified_gmt": "2023-10-21 09:45:01",
@@ -533,6 +678,67 @@
         }
       ],
       "permalink": "privacypolicy/"
+    },
+    "services": {
+      "post_title": "Services, simplified",
+      "post_name": "services",
+      "intro": "Content and design challenges are complex enough. Working with an agency shouldn\u2019t be hard, too.",
+      "services": [
+        {
+          "title": "Discovery & strategy",
+          "tag": "Service 01",
+          "url": "services/discovery-strategy/",
+          "description": "Analytics got you down? Users making you scratch your head? We\u2019ll research your biggest pain points so content and design grow in the right direction."
+        },
+        {
+          "title": "Web & Product Design",
+          "tag": "Service 02",
+          "description": "Websites aren\u2019t just there to look pretty, though pretty is a plus we deliver. We\u2019ll build an experience that\u2019s sustainable, scalable, and supportive of your long-term strategy. Think big."
+        },
+        {
+          "title": "Visual & Verbal Brand",
+          "tag": "Service 03",
+          "description": "Whether you\u2019re evolving in a new direction or need to course correct, we refresh brand identities so you can communicate with clarity and power."
+        },
+        {
+          "title": "White Labeling",
+          "tag": "Service 04",
+          "description": "We partner with organizations that need to quickly flex up their content and design teams with leaders or individual contributors."
+        }
+      ],
+      "blueprint": {
+        "offer": "Our 90-minute introductory offer",
+        "title": "Future Focus Blueprint",
+        "description": "A strategy intensive that provides immediate clarity on your core messaging & UX needs\u2014with a plan that puts your future in focus."
+      },
+      "discovery_strategy": {
+        "title": "Discovery & Strategy",
+        "subtitle": "Analytics got you down? Users making you scratch your head? We\u2019ll research your biggest pain points so content and design grow in the right direction.",
+        "packages": [
+          {
+            "title": "Strategy north star",
+            "price": "Starting at k",
+            "description": "A comprehensive engagement designed to assess what your organization needs from a new site, so you can embark on a full redesign with confidence.",
+            "perfect_for": [
+              "Developing the strategic foundation for a full redesign or rebrand",
+              "Determining how to successfully merge multiple domains or brands",
+              "Defining and addressing site-wide usability issues",
+              "Evaluating your information architecture and identifying structured content opportunities"
+            ]
+          },
+          {
+            "title": "Mini problem-solver",
+            "price": "Starting at ,500",
+            "description": "An intensive, collaborative sprint for marketing teams that need design and UX expertise to solve a specific challenge.",
+            "perfect_for": [
+              "Addressing navigation issues",
+              "Identifying UX improvements that will reduce friction, increase conversions, and help you reach business goals",
+              "Defining user challenges prior to publishing your RFP",
+              "Conducting website discovery for your small business"
+            ]
+          }
+        ]
+      }
     }
   },
   "posts": [
