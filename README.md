@@ -2,6 +2,9 @@
 
 > Complete clone, static mirror, and extracted Vue.js source code for [loaf.agency](https://loaf.agency/).
 
+🌐 **Live GitHub Pages Preview**: [https://ragazabrian.github.io/loaf-agency/](https://ragazabrian.github.io/loaf-agency/)
+
+
 This repository contains the complete production website, all 59 pre-rendered routes, static assets (JS, CSS, Web Fonts, SVG, MP4 media), the full 1.1MB ACF CMS JSON dataset, and the original unminified Vue.js components unpacked from Webpack sourcemaps.
 
 ---
