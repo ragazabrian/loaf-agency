@@ -1,17 +1,4 @@
-# https://loaf.agency/robots.txt
-#
-# Every crawler is welcome, including AI search and training bots. Only
-# non-content paths are excluded. Draft case studies are deliberately NOT
-# listed: they're kept out of search with noindex, which crawlers can only
-# see if they're allowed to fetch the page, and listing them here would
-# publish the private preview links.
-
 User-agent: *
-# Internal email-signature tool, not site content
-Disallow: /eSignatures
-# Dev / test routes in the app ($ = exact match, so similarly named pages
-# added later aren't caught)
-Disallow: /type$
-Disallow: /emotion-lab/exploration$
+Allow: /
 
-Sitemap: https://loaf.agency/sitemap.xml
+Sitemap: https://ragazabrian.github.io/loaf-agency/sitemap.xml
